@@ -1,2 +1,2 @@
-# CurriculumVitae
-The web project showing my code samples. Assembled by Python, Flask, JavaScript, JQuerry, HTML, CSS
+# HTML/CSS Pages Layout Examples
+Three different pages I made with my own hands to show my understanding of web technologies (HTML/CSS/LESS).
